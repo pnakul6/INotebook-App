@@ -1,3 +1,17 @@
+This web app uses MongoDB, Node js, React js and Express js.
+// How to start mongoDB and store data from user.
+
+You have to paste your own database key that is url string from mongoDB to store data.
+
+//Node Modules 
+There are so many dependencies used in this project such as cors, react router dom, etc.
+You can get all dependencies using "npm init" command.
+
+
+//The below comments are auto generated you can ignore them if you know about react and node.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
